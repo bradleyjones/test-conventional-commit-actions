@@ -1,3 +1,3 @@
 # test-conventional-commit-actionsQ
 
-Dummy1
+Dummy2
